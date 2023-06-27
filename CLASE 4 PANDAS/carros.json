@@ -1,0 +1,15 @@
+{"auto1":{
+   "marca":"Nissan",
+   "modelo":"frontier",
+   "anio":2020,
+   "cilindraje":4000,
+   "tipo_de_frenos":"disco"
+},
+"auto2":{
+   "marca":"Toyota",
+   "modelo":"4runner",
+   "anio":2020,
+   "cilindraje":4000,
+   "tipo_de_frenos":"disco"
+
+}}
